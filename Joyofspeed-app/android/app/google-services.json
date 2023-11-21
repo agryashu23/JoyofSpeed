@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "978924997978",
+    "project_id": "joyofspeed-25b62",
+    "storage_bucket": "joyofspeed-25b62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:978924997978:android:cd79b70f31e5859d907763",
+        "android_client_info": {
+          "package_name": "com.thirteen.joy_of_speed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "978924997978-7svfb2gricmml9um5f117sa3pmvnk4vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbAHU0sjHUiMT2m1Akb9ZPyp11tWPj654"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "978924997978-7svfb2gricmml9um5f117sa3pmvnk4vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
